@@ -1,0 +1,27 @@
+
+# Compiled files
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.out
+*.exe
+
+# Build directories
+build/
+Debug/
+Release/
+
+# STM32CubeIDE generated files
+.settings/
+*.launch
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+*~
